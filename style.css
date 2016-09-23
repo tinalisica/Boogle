@@ -1,0 +1,145 @@
+body {
+    font-family: 'Alegreya Sans', sans-serif;
+    
+}
+
+.container {
+  text-align: center;
+}
+
+#right {
+    width: 180px;
+    height: 60px;
+    background-color: white;
+    margin-left: auto;
+
+}
+
+#boogle {
+    
+    width: 16%; 
+    margin-top: 180px;
+     margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.iskanje {
+    height: 30px;
+    width: 30px;
+    margin-right: 38%;
+    margin-left: 42%;
+    width: 20%;
+
+}
+
+.center {
+   width: 20%;
+   margin: 0 auto;
+   margin-top: 20px;
+
+}
+
+
+.center1 {
+   
+   
+   margin-top: 150px;
+
+}
+
+button {
+    padding: 6px 6px 6px 6px;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+
+#aqua {color: aqua;
+    text-shadow: 10px;
+    font-size: 3em;
+    }
+
+#crimson {color: crimson;
+    text-shadow: 10px;
+    font-size: 3em;
+    }
+
+
+#green {color: darkgreen;
+    text-shadow: 10px;
+    font-size: 3em;
+    }
+
+
+#yellow {color: yellow;
+    text-shadow: 10px;
+    font-size: 3em;
+    }
+
+#orange {color: darkorange;
+    text-shadow: 10px;
+    font-size: 3em;
+    }
+
+#pink {color: deeppink;
+    text-shadow: 10px;
+    font-size: 3em;
+    }
+
+#link {
+    text-decoration: none;
+}
+
+#sivspodaj1 {  
+    border: 1px solid black;
+    width: 45%;
+}
+
+.sivspodaj1 {
+    border: 1px solid darkgray;
+    border-left: none;
+    background-color: lightgray;
+    width: 50%;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 10px;
+    text-align: right;
+    word-spacing: 30px;
+    
+}
+
+.sivspodaj2 {
+    border: 1px solid darkgray;
+    border-right: none;
+    background-color: lightgray;
+    width: 50%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 10px;
+    text-align: left;
+    word-spacing: 30px;
+}
+
+
+.sivspodaj1 span:hover {
+    text-decoration: underline;
+}
+
+.sivspodaj2 span:hover {
+    text-decoration: underline;
+}
+
+.sivspodaj2 span {
+    margin-left: 20px;
+}
+
+.sivspodaj1 span {
+    margin-left: 20px;
+}
+
+
+
+    
+
+
